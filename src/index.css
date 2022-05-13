@@ -34,9 +34,9 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--dark);
+  background: #888e95;
   color: var(--light);
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Courier New', Courier, monospace;
 
 }
 
